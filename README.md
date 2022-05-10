@@ -1,7 +1,7 @@
 # Google maps coded in Vue/Nuxt
 
 ## Demo
-![Demo](https://gitfront.io/r/user-8832754/b1BU6qe4yYtQ/Sample-Code/blob/gmapsgif.gif)
+Navigate to gmapsgif.gif to view the demo
 
 
 ## Build Setup
