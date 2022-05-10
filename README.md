@@ -1,5 +1,9 @@
 # Google maps coded in Vue/Nuxt
 
+## Demo
+![Demo](https://github.com/Madeeha-Anjum/Code-Sample/blob/main/gmapsgif.gif)
+
+
 ## Build Setup
 
 ```bash
@@ -15,3 +19,12 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+```
+## Env
+```
+MAP_API_KEY = ""
+
+```
+
+
