@@ -1,8 +1,9 @@
-# Google maps coded in Vue/Nuxt
+# Welcome to G-Mapy!
+
+G-mapy is a Nuxt app that uses the Google Maps API. It handles returns, scrolling, clicking, and searching on a map.
 
 ## Demo
-Navigate to gmapsgif.gif to view the demo
-
+<img src="https://github.com/Madeeha-Anjum/gmapy/blob/main/gmapsgif.gif" style="width:900px"/>
 
 ## Build Setup
 
